@@ -6,7 +6,7 @@ function RegPages() {
             <div className="auth-header">
                 <Link to="/auth" className="auth-tab">Авторизация</Link>
                 <div className="auth-tab active">Регистрация</div>
-                <Link to="/Dota2" className="auth-x">X</Link>
+                <Link to="/" className="auth-x">X</Link>
             </div>
             <div className="auth-body">
                 <form className="auth-form">

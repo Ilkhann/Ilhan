@@ -23,7 +23,7 @@ function HeaderCS2() {
         <div class="category">
             <div class="container">
                 <div class="category-game">
-                    <Link to="/dota2" className="game-link">Dota 2</Link>
+                    <Link to="/" className="game-link">Dota 2</Link>
                     <span>CS 2</span>
                     <span>
                         Ещё

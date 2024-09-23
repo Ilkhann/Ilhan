@@ -1,5 +1,4 @@
 import CS2List from "../components/CS2List";
-import NewsBlock from "./NewsBlock";
 import HeaderCS2 from "../components/HeaderCS2";
 import { Link } from "react-router-dom";
 import NewsBlockCS from "./NewsBlockCS";

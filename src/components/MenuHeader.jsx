@@ -20,8 +20,8 @@ function MenuHeader() {
             </div>
         </div>
         <div class="menu-card">
-            <Link to="/dota2" class="nav-txt">Матчи</Link>
-            <Link to="/dota2" class="nav-txt">Турниры</Link>
+            <Link to="/" class="nav-txt">Матчи</Link>
+            <Link to="/" class="nav-txt">Турниры</Link>
             <div class="nav-txt">Команды и игроки</div>
             <div class="nav-txt">Блоги</div>
             <div class="nav-txt">Игры</div>

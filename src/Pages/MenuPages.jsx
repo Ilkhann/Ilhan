@@ -7,7 +7,7 @@ function MenuPages(){
         <div class="header">
             <div class="container">
                 <div class="nav">
-                    <Link to="/Dota2" class="menu">
+                    <Link to="/" class="menu">
                         <img src={xMarkIcon} alt="" class="x-mark" />
                     </Link>
                     <span class="right">    
@@ -17,7 +17,7 @@ function MenuPages(){
             </div>
         </div>
         <div class="menu-card">
-            <Link to="/dota2" class="nav-txt">Матчи</Link>
+            <Link to="/" class="nav-txt">Матчи</Link>
             <Link to="/tourney" class="nav-txt">Турниры</Link>
             <div class="nav-txt">Команды и игроки</div>
             <div class="nav-txt">Блоги</div>

@@ -6,7 +6,7 @@ function AuthPages() {
             <div class="auth-header">
                 <div class="auth-tab active">Автаризация</div>
                 <Link to="/reg" class="auth-tab">Регестрация</Link>
-                <Link to="/Dota2" className="auth-x">X</Link>
+                <Link to="/" className="auth-x">X</Link>
             </div>
         <div class="auth-body">
             <div class="auth-form">

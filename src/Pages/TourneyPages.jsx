@@ -11,7 +11,7 @@ function TourneyPages() {
             <div className="background">
                 <div className="container">
                     <div class="tabs" >
-                        <Link to="/Dota2" class="tab2">Матчи</Link>
+                        <Link to="/" class="tab2">Матчи</Link>
                         <span class="tab2">Турниры</span>
                     </div>
                     <TourneyList/>

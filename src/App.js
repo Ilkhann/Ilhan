@@ -24,7 +24,7 @@ function App() {
     <>
      <Routes>
       <Route path="/cs2" element={<CS2Pages/>}/>
-      <Route path="/Dota2" element={<Dota2Pages/>}/>
+      <Route path="/" element={<Dota2Pages/>}/>
       <Route path="/menu" element={<MenuPages/>}/>
       <Route path="/auth" element={<AuthPages/>}/>
       <Route path="/reg" element={<RegPages/>}/>
